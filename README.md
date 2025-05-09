@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Savi-svg
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on projects on C
+- 🌱 I’m currently learning JAVA language
+- 💞️ I’m looking to collaborate on projects on JAVA
 - 📫 How to reach me - savitayadav.sy104@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a ghost <_> 
